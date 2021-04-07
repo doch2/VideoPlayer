@@ -1,0 +1,10 @@
+name: VideoPlayer-Plugin
+version: ${project.version}
+main: com.dochsoft.videoplayerplugin.VideoPlayerPlugin
+api-version: 1.16
+authors: [ doch13_(도치) ]
+description: 마인크래프트 인게임 내에서 동영상을 재생할 수 있는 플러그인입니다.
+website: https://github.com/doch2/VideoPlayer/
+commands:
+  동영상:
+    description: 동영상을 재생하는커맨드입니다.
